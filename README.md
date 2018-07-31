@@ -39,7 +39,9 @@ python evaluate_2.py
 ```
 
 Show result in [jupyter notebook](https://github.com/smileyung/Reinforcement_Learning_for_Stock_Prediction/blob/patch-1/myNoteBook.ipynb)
+
 ![Return with epochs](https://github.com/smileyung/Reinforcement_Learning_for_Stock_Prediction/blob/patch-1/images/epochs_returns.png)
+
 When the epochs increase, the performance(returns) seems not convergence. 
 (I am not sure how many epochs should I train...)
 
